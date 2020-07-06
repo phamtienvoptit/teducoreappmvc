@@ -1,0 +1,16 @@
+G:\Work\Tedu\Xây dựng ứng dụng ASP.NET Core MVC\teducoreappmvc\TeduCoreApp\TeduCoreApp\bin\Debug\netcoreapp2.0\appsettings.Development.json
+G:\Work\Tedu\Xây dựng ứng dụng ASP.NET Core MVC\teducoreappmvc\TeduCoreApp\TeduCoreApp\bin\Debug\netcoreapp2.0\appsettings.json
+G:\Work\Tedu\Xây dựng ứng dụng ASP.NET Core MVC\teducoreappmvc\TeduCoreApp\TeduCoreApp\bin\Debug\netcoreapp2.0\bundleconfig.json
+G:\Work\Tedu\Xây dựng ứng dụng ASP.NET Core MVC\teducoreappmvc\TeduCoreApp\TeduCoreApp\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+G:\Work\Tedu\Xây dựng ứng dụng ASP.NET Core MVC\teducoreappmvc\TeduCoreApp\TeduCoreApp\bin\Debug\netcoreapp2.0\TeduCoreApp.deps.json
+G:\Work\Tedu\Xây dựng ứng dụng ASP.NET Core MVC\teducoreappmvc\TeduCoreApp\TeduCoreApp\bin\Debug\netcoreapp2.0\TeduCoreApp.runtimeconfig.json
+G:\Work\Tedu\Xây dựng ứng dụng ASP.NET Core MVC\teducoreappmvc\TeduCoreApp\TeduCoreApp\bin\Debug\netcoreapp2.0\TeduCoreApp.runtimeconfig.dev.json
+G:\Work\Tedu\Xây dựng ứng dụng ASP.NET Core MVC\teducoreappmvc\TeduCoreApp\TeduCoreApp\bin\Debug\netcoreapp2.0\TeduCoreApp.dll
+G:\Work\Tedu\Xây dựng ứng dụng ASP.NET Core MVC\teducoreappmvc\TeduCoreApp\TeduCoreApp\bin\Debug\netcoreapp2.0\TeduCoreApp.pdb
+G:\Work\Tedu\Xây dựng ứng dụng ASP.NET Core MVC\teducoreappmvc\TeduCoreApp\TeduCoreApp\obj\Debug\netcoreapp2.0\TeduCoreApp.csprojAssemblyReference.cache
+G:\Work\Tedu\Xây dựng ứng dụng ASP.NET Core MVC\teducoreappmvc\TeduCoreApp\TeduCoreApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+G:\Work\Tedu\Xây dựng ứng dụng ASP.NET Core MVC\teducoreappmvc\TeduCoreApp\TeduCoreApp\obj\Debug\netcoreapp2.0\TeduCoreApp.AssemblyInfoInputs.cache
+G:\Work\Tedu\Xây dựng ứng dụng ASP.NET Core MVC\teducoreappmvc\TeduCoreApp\TeduCoreApp\obj\Debug\netcoreapp2.0\TeduCoreApp.AssemblyInfo.cs
+G:\Work\Tedu\Xây dựng ứng dụng ASP.NET Core MVC\teducoreappmvc\TeduCoreApp\TeduCoreApp\obj\Debug\netcoreapp2.0\TeduCoreApp.dll
+G:\Work\Tedu\Xây dựng ứng dụng ASP.NET Core MVC\teducoreappmvc\TeduCoreApp\TeduCoreApp\obj\Debug\netcoreapp2.0\TeduCoreApp.pdb
+G:\Work\Tedu\Xây dựng ứng dụng ASP.NET Core MVC\teducoreappmvc\TeduCoreApp\TeduCoreApp\obj\Debug\netcoreapp2.0\TeduCoreApp.genruntimeconfig.cache
